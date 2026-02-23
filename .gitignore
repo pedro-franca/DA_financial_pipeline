@@ -1,0 +1,8 @@
+# Ignore secret configuration files
+/Workspace/Users/pedrochfr@gmail.com/DA_financial_pipeline/Notebooks/News Data/secrets.json
+
+# Ignore Python cache files and virtual environments
+__pycache__/
+*.pyc
+.env
+venv/
