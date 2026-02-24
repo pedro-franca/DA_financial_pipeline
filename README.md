@@ -1,4 +1,4 @@
-# 📈 AAPL Market Intelligence Data Pipeline (Databricks Medallion Architecture)
+# 📈 AAPL Market Intelligence Data Pipeline (Databricks Medallion Architecture, AWS S3, PySpark)
 My first databricks pipeline
 
 
